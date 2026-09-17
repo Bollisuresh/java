@@ -1,1 +1,1 @@
-
+Application data refers to the information, settings, and files that software programs create, use, and save while running.Common Types of Application DataConfiguration and Preferences: User settings, themes, login states, and layout choices saved so the app remembers your setup.System and Runtime Files: Temporary caches, logs, and state data needed by the operating system or application to function properly from moment to moment.User-Generated Content: Documents, downloaded media, saved game progress, and local databases tied directly to an active profile
