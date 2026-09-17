@@ -1,1 +1,1 @@
-
+You can style data attributes in web development using CSS attribute selectors to target elements based on specific data values.Styling with Data AttributesAttribute Selectors: Target specific values in CSS using brackets, such as [data-status="active"].Example CSS: Write .item[data-status="complete"] { background-color: green; } to change styles dynamically.JavaScript Access: Read or change values in scripts using the dataset property, like element.dataset.status = "complete".
